@@ -1,0 +1,5 @@
+@import '../index/partials/conteiner.css';
+@import 'partials/calculadora.css';
+@import 'partials/numeros.css';
+
+@import '../../global/global.css';

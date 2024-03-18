@@ -1,0 +1,6 @@
+:root{
+    --linear-gradient: linear-gradient(120deg, #FF2E4C, #592B6D);
+    --linear-gradient-hover: linear-gradient(120deg, #ff2e4ddf, #592B6Ddf);
+    --cor-bg: #212121;
+    --cor-font: #ffffff;
+}
